@@ -152,21 +152,21 @@ GenericSelector<String, SelectableChip>(
 
 The GenericSelector provides several properties for customization:
 
-| Property | Description |
-|----------|-------------|
-| `layout` | The layout type: column, row, wrap, or grid |
-| `isMultiSelectMode` | Whether multiple selections are allowed |
-| `initialSelection` | List of initially selected items |
-| `spacing` | Spacing between items in row/column layouts |
-| `wrapAlignment` | Alignment of items within a run in wrap layout |
-| `wrapRunAlignment` | Alignment of runs in wrap layout |
-| `wrapSpacing` | Spacing between items in wrap layout |
-| `wrapRunSpacing` | Spacing between runs in wrap layout |
-| `crossAxisCount` | Number of items on the cross axis in grid layout |
-| `mainAxisSpacing` | Spacing between rows in grid layout |
-| `crossAxisSpacing` | Spacing between columns in grid layout |
-| `childAspectRatio` | Aspect ratio of grid items |
-| `mainAxisExtent` | Fixed height for items in grid layout |
+| Property            | Description                                      |
+|---------------------|--------------------------------------------------|
+| `layout`            | The layout type: column, row, wrap, or grid      |
+| `isMultiSelectMode` | Whether multiple selections are allowed          |
+| `initialSelection`  | List of initially selected items                 |
+| `spacing`           | Spacing between items in row/column layouts      |
+| `wrapAlignment`     | Alignment of items within a run in wrap layout   |
+| `wrapRunAlignment`  | Alignment of runs in wrap layout                 |
+| `wrapSpacing`       | Spacing between items in wrap layout             |
+| `wrapRunSpacing`    | Spacing between runs in wrap layout              |
+| `crossAxisCount`    | Number of items on the cross axis in grid layout |
+| `mainAxisSpacing`   | Spacing between rows in grid layout              |
+| `crossAxisSpacing`  | Spacing between columns in grid layout           |
+| `childAspectRatio`  | Aspect ratio of grid items                       |
+| `mainAxisExtent`    | Fixed height for items in grid layout            |
 
 
 ## Additional information
@@ -179,4 +179,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### License
 
-This package is released under the BSD 3-Clause License.
+This package is released under the BSD 3-Clause License
